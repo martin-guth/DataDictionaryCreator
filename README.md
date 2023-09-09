@@ -15,3 +15,5 @@ You could contact me with questions how to use the software...however I am not a
 
 To use the software download and unzip DDC.zip and run DataDictionaryCreator.exe
 No installation is required.
+
+For more information have a look at the walk through on my blog: http://www.martinguth.de/database-documentation/extended-properties-on-stereoids-document-multiple-properties-easily-with-data-dictionary-creator/
